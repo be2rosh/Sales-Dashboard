@@ -1,0 +1,4 @@
+Order Date,Order ID,Customer,Customer ID,Region,Sales Rep,Segment,Channel,Category,Product,SKU,Quantity,Unit Price,Discount,Gross Sales,Sales,Cost,Profit,Returns,Sales Target,Inventory Qty,Reorder Point,Lead Time Days
+2026-10-01,INV-1001,ABC Retail,C001,North,Aarav,General Trade,Distributor,Beverages,Tea Case,BEV-001,20,500,0.05,10000,9500,7200,2300,0,,120,30,7
+2026-10-04,INV-1002,Metro Stores,C002,West,Diya,Modern Trade,Direct,Cleaning,Detergent Case,CLN-002,12,850,0.08,10200,9384,7600,1784,0,,45,50,12
+2026-10-10,INV-1003,ABC Retail,C001,North,Aarav,General Trade,Distributor,Packaged Foods,Rice Bag,FOOD-010,35,320,0.02,11200,10976,8700,2276,0,,200,40,5
