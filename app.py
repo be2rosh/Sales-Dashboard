@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly as px
+import plotly.express as pex
 import plotly.graph_objects as go
 from datetime import date, timedelta
 
